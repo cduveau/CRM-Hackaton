@@ -1,10 +1,10 @@
 #CRM Hackaton
 
 ## Team
--Pierre : 
--Thierry :
--Nadjib :
--Christophe : 
+* Pierre : Product Owner
+* Thierry : Scrum Master
+* Nadjib : Dev
+* Christophe : Lead Tech
 
 ## Context diagram
 ## blabla
