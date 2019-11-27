@@ -7,4 +7,7 @@
 * Christophe : Lead Tech
 
 ## Context diagram
+
+![Context Diagram](UseCaseDiagram1.png)
+
 ## blabla
