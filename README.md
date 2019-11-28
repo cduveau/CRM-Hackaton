@@ -11,7 +11,7 @@
 ![Context Diagram](Diagrams/UseCaseDiagram1.png)
 
 ## Package Diagram
-
+![Context Diagram](Diagrams/PackageDiagram1.png)
 
 ## Project definition
 US list
